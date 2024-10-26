@@ -23,3 +23,4 @@ transformers==4.44.2
 tzdata==2024.1
 gunicorn==23.0.0
 matplotlib==3.9.1
+xhtml2pdf==0.2.16
