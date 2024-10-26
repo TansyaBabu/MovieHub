@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-c36!qtg!)2mhuxsy2!inr3^fm)c2^r5f1yy@tw672sq835qh@#
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'movie-ticket-booking-system-production.up.railway.app',  # Add your Railway app URL here
+    'moviehub-zuhx.onrender.com',  # Add your Railway app URL here
     'localhost','127.0.0.1'  # Allow requests from localhost
 ]
 
